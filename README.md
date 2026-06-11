@@ -41,6 +41,6 @@ Here is a quick look at my recent activity and language breakdown:
 
 * 💼 Connect with me on [LinkedIn](www.linkedin.com/in/adrián-march-ramón-24ab71290)
 * 📧 Shoot me an email: adrianmarchramon@gmail.com
-* 🌐 Check out my personal website: [](adrianmarchramon.com)
+* 🌐 Check out my personal website: [adrianmarchramon.com](adrianmarchramon.com)
 
 *"Code is like humor. When you have to explain it, it’s bad."*
