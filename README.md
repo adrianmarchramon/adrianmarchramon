@@ -32,8 +32,8 @@ Here are some of the technologies I work with or am currently mastering:
 
 Here is a quick look at my recent activity and language breakdown:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adrianmarhcramon&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianmarchramon&layout=compact&theme=radical)
 
 ---
 
