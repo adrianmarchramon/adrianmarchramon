@@ -20,11 +20,12 @@ Here are some of the technologies I work with or am currently mastering:
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | `Python`, `C/C++`, `Java`, `SQL` |
-| **AI & Data** | `Pandas`, `NumPy`, `Scikit-Learn`, `TensorFlow` / `PyTorch` |
-| **Cybersecurity** | `Linux`, `Wireshark`, `Nmap`, `Metasploit` |
-| **Robotics & Hardware** | `ROS (Robot Operating System)`, `Arduino`, `Raspberry Pi` |
-| **Tools & DevOps** | `Git`, `Docker`, `Jupyter Notebooks` |
+| **Languages** | `Python`, `C/C++`, `C#`, `Java`, `JavaScript`, `Swift`, `PHP`, `SQL`, `NoSQL`, `HTML/CSS`, `Assembly`, `Prolog` |
+| **AI, Vision & Data** | `Deep Learning`, `Computer Vision`, `Object Detection`, `Image Processing`, `NLP`, `MediaPipe`, `Claude SDK/MCP`, `Prompt Engineering`, `Pandas`, `NumPy`, `Scikit-Learn`, `TensorFlow` / `PyTorch` |
+| **Cloud, Web & Mobile** | `Cloud Computing (Architectures, Security)`, `Virtualization`, `Laravel`, `API Development`, `Android / iOS Dev`, `UX/UI Design` |
+| **Robotics & Systems** | `ROS (Robot Operating System)`, `CUDA`, `Distributed Systems`, `Software Architecture`, `Operating Systems`, `Arduino`, `Raspberry Pi` |
+| **Cybersecurity & Networks** | `Network Security`, `Network Design & Management`, `Linux`, `Wireshark`, `Nmap`, `Metasploit` |
+| **Tools & DevOps** | `Git / GitHub`, `Docker`, `GitHub Copilot`, `Automation`, `Testing`, `Jupyter Notebooks` |
 
 ---
 
