@@ -40,8 +40,8 @@ Here are some of the technologies, methodologies and domains I work with or am c
 
 Here is a quick look at my recent activity and language breakdown:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adrianmarchramon&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianmarchramon&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=adrianmarchramon&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=adrianmarchramon&layout=compact&theme=radical)
 
 ---
 
